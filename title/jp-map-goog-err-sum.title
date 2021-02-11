@@ -1,0 +1,3 @@
+paste("Sum of errors in log", phantom()[{
+    paste("2")
+}], " confirmed cases per 1M population per forecast-day")
