@@ -1,3 +1,0 @@
-paste("Total over-estimate error in log", phantom()[{
-    paste("2")
-}], " confirmed cases per 1M population per forecast-day")
